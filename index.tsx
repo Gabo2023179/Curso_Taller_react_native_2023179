@@ -1,10 +1,10 @@
-import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+/*import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import MainStackNavigator from "./navigation/MainNavigator";
 
 const Tab = createBottomTabNavigator();
 
-const App = () => {
+const Index = () => {
   return <MainStackNavigator />;
 };
 
-export default App;
+export default Index;*/
